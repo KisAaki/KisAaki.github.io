@@ -16,7 +16,7 @@
 - Phone
   - **+**
 - WeChat
-  - **Wu-\_-Kan**
+  - **n**
 - E-mail:
   - ****
   - ****
@@ -33,6 +33,7 @@
 
 
 ## Blogs
-https://github.com/KisAaki/kisaaki.github.io/blob/gh-pages/_posts/%E7%A4%BA%E8%8C%83.md
 
+-[小测试~](https://github.com/KisAaki/kisaaki.github.io/blob/gh-pages/_posts/%E7%A4%BA%E8%8C%83.md)
+<!-- .slide -->
 ## Toolchains
