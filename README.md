@@ -33,5 +33,6 @@
 
 
 ## Blogs
+https://github.com/KisAaki/kisaaki.github.io/blob/gh-pages/_posts/%E7%A4%BA%E8%8C%83.md
 
 ## Toolchains
