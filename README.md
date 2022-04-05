@@ -39,7 +39,7 @@
 
 <!-- .slide vertical=true -->
 
--[小测试~](.\_posts\2022-04-05-实例.md)
+-[小测试~](.\_posts\2022-04-05-示例.md)
 <!-- .slide -->
 
 ## Toolchains
