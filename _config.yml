@@ -12,7 +12,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
         comments: # 留言页，请先修改这里，确保使用的是你自己的repo！参照<https://utteranc.es/>
           append: |
             <script
-              repo="wu-kan/utterances-storage"
+              repo="kisaaki/utterances-storage"
               src="https://utteranc.es/client.js"
               issue-term="url"
               theme="github-light"
@@ -249,16 +249,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 title="RSS"
                 type="application/rss+xml"
               />
-            - | # 网站小图标，可换成你自己的图片，改href中的部分即可
-              <link
-                rel="apple-touch-icon-precomposed"
-                href="https://github.com/KisAaki/materials/blob/main/20220405145615.jpg"
-              />
-              <link
-                rel="shortcut
-                icon"
-                href="https://github.com/KisAaki/materials/blob/main/20220405145615.jpg"
-              />
+            
             - | # 来自lanyon的页面样式，不要改
               <link
                 rel="stylesheet"
