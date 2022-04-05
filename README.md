@@ -39,7 +39,7 @@
 
 <!-- .slide vertical=true -->
 
--[小测试~](https://github.com/KisAaki/kisaaki.github.io/blob/gh-pages/_posts/%E7%A4%BA%E8%8C%83.md)
+-[小测试~](.\_posts\2022-04-05-实例.md)
 <!-- .slide -->
 
 ## Toolchains
