@@ -240,7 +240,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     background-position: 0% 0%;
                     background-repeat: no-repeat;
                     background-attachment: fixed;
-                    opacity:0.7;
                     background-image: url(/assets/image/background1.jpg);
                   }
                   @media (min-aspect-ratio: 2400/1850) {
