@@ -46,5 +46,7 @@ books，例如：秋灯琐记、金阁寺
 <!-- .slide vertical=true -->
 
 -[线性表](./_posts/2022-04-05-线性表知识点.md)
+<!-- .slide vertical=true -->
+其他内容都在右侧侧边栏的归档当中噢
 <!-- .slide -->
 
