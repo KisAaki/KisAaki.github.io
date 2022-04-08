@@ -236,10 +236,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     transition-timing-function: ease-in-out;
                     min-height: 100%;
                     display: inline-block;
-                    background-size: 60% auto;
+                    background-size: 70% auto;
                     background-position: 50% 0%;
                     background-repeat: no-repeat;
                     background-attachment: fixed;
+                    background-color: rgb(254, 235, 251, 0.75);
                     background-image: url(/assets/image/background5.jpg);
                   }
                   @media (min-aspect-ratio: 2400/1850) {
